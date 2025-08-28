@@ -1,4 +1,4 @@
-# 🌱 MTEC 3501 – Speculative Reflection (Version 1)
+# 🌱 MTEC 3501 Assignment 1 – Speculative Reflection
 
 **Due:** Week 2 (Remote Class & Brainstorming)  
 **Format:** Shareable Google Doc, Dropbox link, or PDF (no GitHub upload yet)  
