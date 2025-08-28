@@ -16,7 +16,7 @@ When: Thursdays 2:30 - 5:00 PM
 Modality: Hybrid synchronous  
 Location: Voorhees 103B and Zoom (GitHub for asynchronous activity)  
 Professor: David B. Smith  
-Course site: [GitHub Repository]  
+Course site: [GitHub Repository](  
 Communication: [Discord Channel]  
 Email: [dsmith@citytech.cuny.edu](dsmith@citytech.cuny.edu)
 Office hours: Wed, Thu 12-1 PM Open Hours, and otherwise by appointment
