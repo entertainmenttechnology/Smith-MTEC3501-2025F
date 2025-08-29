@@ -9,11 +9,13 @@
 > This section will be updated each week with the current assignment and deliverables.
 > 🔗 [See all assignments](../documents-Class/assignments/README.md)
 
-**This Week (Week X):**
+**This Week (Week 01):**
 
 * [Assignment Title](documents-Class/assignments/##_folder/filename.md)
-* Due: \[date]
-* Deliverable: \[short description]
+* Due: Week 02 (9/4)
+* Deliverables:
+  * [Speculative Essay](./assignments/week01/01_Speculative_Reflection_Assignment.md)
+  * [Onboarding GitHub, Zotero, Discord, Google](../assignments/week01/01-Student_onboarding.md)
 
 ---
 
