@@ -14,13 +14,13 @@ All  participants are required to register for the following applications. Each 
    - **Naming Guidelines**: Use a professional and specific username that identifies you. Avoid usernames like "catfancypants" or similar.
      - Example: "JohnSmith_CHI" or "JSmith_2025"
    - **Report Your ID**: Submit your GitHub username to the CHI admin team.
-     - Once CHI receives your User Name, we will add you to the GitHub CHI-CityTech Organization.  
+     - Once I receive your User name, I will add you to the repository.  
 
 2. **Zotero**
    - **Purpose**: Collaborative reference management and citation sharing for research.
    - **Action**: [Create an account on Zotero](https://www.zotero.org/user/register).
    - **Linking to Shared Libraries**:  
-     1. The CHI admin team will send an invitation to your registered Zotero email.  
+     1. The professor will send an invitation to your registered Zotero email.  
      2. Accept the invitation via the link provided in the Zotero notification or email.  
      3. After joining, navigate to the group library by logging into your Zotero account and selecting "Groups" in the top menu.  
    - **Naming Guidelines**: Use a clear, professional username.  
