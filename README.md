@@ -11,7 +11,7 @@
 
 **This Week (Week 01):**
 
-* [Assignment Title](documents-Class/assignments/##_folder/filename.md)
+* [Week 1 assignments](documents-Class/assignments/##_folder/filename.md)
 * Due: Week 02 (9/4)
 * Deliverables:
   * [Speculative Essay](./assignments/week01/01_Speculative_Reflection_Assignment.md)
@@ -24,7 +24,7 @@
 **MTEC 3501** prepares you for your **culmination project** in the BTech program.
 
 * You will develop a **prototype** (not yet a full Least Viable Product).
-* Work progresses through **Research → Design → Production Planning → Assessment**.
+* Work progresses through **Speculation → Research → Design → Make → Publish → Assessment**.
 * The semester emphasizes **proposal writing, precedent research, milestone planning, and juried presentations**.
 
 ---
