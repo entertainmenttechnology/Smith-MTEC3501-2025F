@@ -15,7 +15,7 @@
 * Due: Week 02 (9/4)
 * Deliverables:
   * [Speculative Essay](./assignments/week01/01_Speculative_Reflection_Assignment.md)
-  * [Onboarding GitHub, Zotero, Discord, Google](../assignments/week01/01-Student_onboarding.md)
+  * [Onboarding GitHub, Zotero, Discord, Google](./assignments/week01/01-Student_onboarding.md)
 
 ---
 
