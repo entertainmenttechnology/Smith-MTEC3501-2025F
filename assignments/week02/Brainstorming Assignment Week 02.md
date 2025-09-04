@@ -1,6 +1,6 @@
 # Assignment 02: Ongoing Brainstorming and Expansion
 
-**Due:** [Instructor-defined deadline]  
+**Due:** Week 03  
 **Objective:** To continue refining, diversifying, and strengthening your project idea using GitHub-based collaborative brainstorming techniques.
 
 ---
