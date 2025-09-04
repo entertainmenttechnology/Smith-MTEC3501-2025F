@@ -7,7 +7,7 @@
 ## 📌 Weekly Update
 
 > This section will be updated each week with the current assignment and deliverables.
-> 🔗 [See all assignments](../documents-Class/assignments/README.md)
+> 🔗 [See all assignments](./assignments)
 
 **This Week (Week 01):**
 
