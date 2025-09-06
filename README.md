@@ -9,9 +9,12 @@
 > This section will be updated each week with the current assignment and deliverables.
 > 🔗 [See all assignments](./assignments)
 
-**This Week (Week 01):**
+**This Week (Week 02)**
+* [Week 2 assignments](./assignments/week02/Brainstorming%20Assignment%20Week%2002.md)
 
-* [Week 1 assignments](documents-Class/assignments/##_folder/filename.md)
+**(Week 01):**
+
+* [Week 1 assignments](./assignments/week01)
 * Due: Week 02 (9/4)
 * Deliverables:
   * [Speculative Essay](./assignments/week01/01_Speculative_Reflection_Assignment.md)
