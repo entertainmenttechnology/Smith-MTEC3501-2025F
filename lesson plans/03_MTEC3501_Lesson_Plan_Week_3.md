@@ -1,151 +1,121 @@
-# Lesson Plan – Week 3: From Brainstorm to Proposal (Research, Precedent, Scope)
+# Week 3 – Lesson Plan (Zoom Class)
 
-**Course:** Culmination Project Development  
-**Class Session:** #3  
-**Date:** 9/11  
-**Format:** Zoom (2.5 hours)
-
----
-
-## **Week 3 Learning Objectives**
-By the end of this session, students will:
-- Convert brainstorm outputs into structured GitHub issues.
-- Explore and document relevant precedents for their project.
-- Reflect on and articulate their project scope using a three-level model (PoC, LVP, Aspirational).
-- Create personal GitHub Project Boards for tracking tasks.
-- Begin drafting a speculative proposal in Markdown.
-- Use Zotero and AI tools to support research, citation, and formatting.
-- Understand the basics of Balanced Blended Space (BBS) Framework (Lecture 1a).
+**Theme:** From Speculation to Structure – Introducing Project Scoping, Research Setup, and GitHub Desktop
+**Duration:** 2.5 hours (150 minutes)
+**Format:** Zoom-based, full class (7 students)
 
 ---
 
-## **Agenda Overview**
-| **Time** | **Topic** | **Focus** |
-|---------|-----------|-----------|
-| 0:00 – 0:10 | Welcome & Recap | Review Week 2 assignment and Week 3 goals |
-| 0:10 – 0:35 | Project Scoping Exercise | Drafting the three-tier scope: PoC, LVP, Aspirational |
-| 0:35 – 0:50 | Create GitHub Project Board | Set up structure before assigning Issues |
-| 0:50 – 1:10 | Translating Brainstorms into Issues | Creating Issues + Labels + Assignments |
-| 1:10 – 1:30 | Zotero + Precedent Research | Case studies, source tagging, annotations |
-| 1:30 – 1:50 | AI Tools for Markdown + Summarizing | Use AI to enhance citations, annotations, and formatting |
-| 1:50 – 2:10 | README.md Refinement | Update with scoped vision and links to Issues |
-| 2:10 – 2:25 | BBS Framework: Lecture 1a | Intro to Balanced Blended Space + Q&A |
-| 2:25 – 2:30 | Wrap-up & Assignment | Confirm progress + push to GitHub |
+## ✅ Learning Goals
+- Upload and commit Week 2 brainstorm materials to GitHub
+- Set up and sync GitHub Desktop for ongoing development
+- Frame project ideas using structured scoping: PoC → LVP → Aspirational
+- Initiate personal project board and GitHub Issues from brainstorm material
+- Begin **inspirational precedent research** using Zotero
+- Understand what is expected for the Week 7 proposal review
 
 ---
 
-## **1. Project Scoping Exercise (25 min)**
-✅ **Goal:** Articulate three levels of your project idea and begin defining its complexity.
+## 🕒 Class Agenda (150 Minutes)
 
-### **Activities:**
-- Create a new Markdown file:
-  ```
-  project_scope.md
-  ```
-- Write a short speculative description of your:
-  - **Proof of Concept (PoC):** Minimal working model that shows feasibility.
-  - **Least Viable Prototype (LVP):** Basic functioning version with core features.
-  - **Aspirational Climax:** What the project would look like with no technical or resource limits.
+### 🟢 Part 1 – GitHub Web Recap and Upload (20 min)
+- ✅ Verify each student’s folder exists in their branch
+- ✅ Students upload `brainstorm_variants.md` and `kill_my_idea.md`
+- ✅ Create and submit Pull Request to merge into `main`
+- 👨‍🏫 Instructor begins merging PRs during next segment
 
-✅ Outcome: Students create a speculative framework for how their project might grow in complexity.
+### 🔵 Part 2 – Project Idea Roundtable (40 min)
+- 🗣️ Each student presents their current idea status (5 mins each)
+- 🧭 Instructor + classmates ask clarifying or exploratory questions
+- ✅ Encourage curiosity-driven exploration (not perfection)
+
+### 🟡 Part 2 – GitHub Desktop Setup (20 min)
+- ✅ Confirm all students have installed GitHub Desktop
+- ✅ Students clone the repo locally and log in
+- ✅ Instructor walkthrough: Pull latest `main`, switch to personal branch, merge `main` into branch, push changes
+- 🧠 Explanation: This is now the standard workflow
+
+### 🟣 Part 3 – Mini-Lecture: What Is Project Scope? What Is Research? (25 min)
+
+#### 🔷 What Is Project Scope?
+- 🧠 Define: Aspirational Climax, Least Viable Prototype (LVP), Proof of Concept (PoC)
+- 🧩 Examples from past projects
+- 📈 Connect to Week 7 Milestone: What you’ll need ready
+
+#### 🔶 Part 4. What Is Research? Four Types
+
+> “Not every project needs all of these, but every project needs some. You’re not just inventing — you’re in conversation with a world of practice and knowledge.”
+
+1. **Inspirational Research**
+   - Personal influences (games, films, performances, books)
+   - Mood-setting, style, tone, world-building
+   - *Use:* Early ideation & Zotero entries this week
+
+2. **Precedent Research**
+   - Similar past work or case studies
+   - How others have structured, executed, or designed projects
+   - *Use:* Mid-stage framing, conceptual benchmarking
+
+3. **Technical Research**
+   - Tools, methods, platforms
+   - Feasibility, functionality, integration
+   - *Use:* Guides your toolchain and timeline
+
+4. **Theoretical / Contextual Research**
+   - Scholarly frameworks, cultural ideas, narrative theory, critical design
+   - Adds purpose, significance, depth
+   - *Use:* Stronger proposals, reflective documentation
+
+✅ Optional 5th: **User Research**
+- Target audience, testing feedback, use cases
+- Typically enters later, but worth mentioning early
+
+---
+### 🟠 Part 5 – Zotero onboarding 
+- Make sure all students have access to Zotero.  
+
+
+
+### 🟠 Part 6 – Independent Work Block (45 min)
+- 🧷 Students complete:
+  - `project_scope.md`
+  - Begin **Inspirational Precedent Research**:
+    - Browse Zotero class library
+    - Add 2–3 entries to `precedent_research.md`
+    - Include games, performances, art, tech — anything influential or inspirational
+    - Use this format:
+```markdown
+### [Source Title or Link]
+- **Type:** (Game, Film, Article, Performance, etc.)
+- **Why it inspires me:** (Short reflection)
+- **Tags:** [keywords]
+```
+- 👨‍🏫 Instructor remains available for 1:1 troubleshooting in Zoom or breakout rooms
+
+### ⚪ Part 6 – Wrap-Up & Framing for Week 4 (10 min)
+- ✅ Recap:
+  - You now have a scoped idea, a board, and a research start
+  - Your project board is a living tool — update it regularly
+- 🗓️ Preview:
+  - Week 4: Deep dive into research types, Zotero usage, and citation formatting
+  - Building toward Week 7: proposal milestone
 
 ---
 
-## **2. Create a Personal GitHub Project Board (15 min)**
-✅ **Goal:** Set up the system for managing development milestones and tasks.
-
-### **Activities:**
-- Navigate to the class GitHub repository.
-- Go to the **Projects** tab → Click **New Project**.
-- Title: `[Your Name] – Project Board`
-- Add columns: `To Do`, `In Progress`, `Needs Research`, `Completed`
-- Link this board in your `README.md`
-
-✅ Outcome: Project board created and ready to receive Issues.
+## 🧩 Materials Needed
+- Shared GitHub class repository
+- GitHub Desktop installed
+- Class Zotero group link (in chat or pinned post)
+- Examples of PoC/LVP/Aspirational formats (optional slide deck or PDF)
 
 ---
 
-## **3. Translating Brainstorms into GitHub Issues (20 min)**
-✅ **Skills Introduced:** Issue creation, labels, assignments, linking issues to boards.
-
-### **Activities:**
-- Convert brainstorm variants from `brainstorm_variants.md` into separate **GitHub Issues**.
-- Assign each issue to yourself.
-- Label: `🧠 Idea`, `🎯 Needs Research`, `🚧 Under Consideration`
-- Add each issue to your personal **Project Board**.
-
-✅ Outcome: Students now have modular ideas broken down into manageable GitHub Issues.
+## 📌 Instructor Reminders
+- Merge all PRs before GitHub Desktop sync walkthrough
+- Observe idea-sharing to gauge project maturity levels
+- Encourage students still “in the fog” — scoping is also discovery
+- Reframe Zotero uploads as inspirational sources, not academic citations
 
 ---
 
-## **4. Precedent Research + Zotero (20 min)**
-✅ **Skills Introduced:** Searching for prior art, source management, citation tagging.
-
-### **Activities:**
-- Add at least 2 precedent sources to the **class Zotero Group**.
-- Tag each with relevant themes (e.g., `interaction design`, `gamification`, `projection`, etc.).
-- Annotate each with a 1–2 sentence summary or critique.
-- Document precedents in:
-  ```
-  precedent_research.md
-  ```
-  - Include title, citation, brief insight, and link to source.
-
-✅ Outcome: Students begin connecting their idea to precedent work.
-
----
-
-## **5. AI for Precedent Summarization + Markdown Conversion (20 min)**
-✅ **Skills Introduced:** AI-enhanced summarization and formatting.
-
-### **Activities:**
-- Use an AI tool to summarize one precedent source.
-- Convert the summary into **Markdown format** for GitHub.
-- Optional: Ask AI to suggest how the precedent might enhance or alter your idea.
-
-✅ Outcome: Better-quality annotations + structured GitHub documentation.
-
----
-
-## **6. Refine Your README.md (20 min)**
-✅ **Skills Introduced:** Vision and project scoping in Markdown.
-
-### **Activities:**
-Update your `README.md` to include:
-- **Project Overview**
-- Link to `project_scope.md`
-- Link to `speculative_proposal.md`
-- Link to `brainstorm_variants.md`
-- Link to `precedent_research.md`
-- Link to GitHub Project Board
-
-✅ Outcome: README becomes the dashboard for project documentation and tracking.
-
----
-
-## **7. BBS Framework Lecture – Part 1a (15–20 min)**
-✅ **Content Introduced:** Core principles of the Balanced Blended Space framework.
-
-### **Topics Covered:**
-- What is BBS?
-- Role of mediation and blended space in design.
-- Why AI is a collaborator, not a tool.
-- How project scoping and PoC/LVP/Aspirational Climax fit within the BBS model.
-
-✅ Outcome: Students understand theoretical foundations for cross-modal design thinking.
-
----
-
-## **8. Final Wrap-Up + Assignment Launch (5 min)**
-✅ **Wrap-Up:**
-- Push `README.md`, `project_scope.md`, `precedent_research.md`, and any new Issues to your branch.
-- Confirm that your GitHub Project Board is live and populated.
-
-✅ **Homework Preview:**
-- Expand your speculative proposal based on your new research.
-- Add 1–2 more research-based Issues.
-- Prepare for tool selection, timelines, and design schematics in Week 4.
-
----
-
-Let me know if you’d like this scaffolded into a student checklist or GitHub-based milestone tracker. 🚀
+Let’s help students connect curiosity to action — and build their first research scaffolding 🚀
