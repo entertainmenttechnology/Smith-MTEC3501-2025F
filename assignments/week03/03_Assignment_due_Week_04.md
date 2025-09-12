@@ -53,9 +53,11 @@ Create or update your README file inside your personal GitHub folder.
 - Install GitHub Desktop if you haven’t already:
   - [Install GitHub Desktop](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop)
 - Clone the class repository to your local computer
+  - [Clone a repository to GitHub Desktop](https://docs.github.com/en/desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop)
 - Use it to:
   - Edit your README.md or upload your documents
   - Commit and push changes from Desktop to your branch
+    - [Push a change from GitHub Desktop to your branch repository](https://docs.github.com/en/desktop/making-changes-in-a-branch/pushing-changes-to-github-from-github-desktop)  
   - Begin becoming comfortable with version control
 
 ## 🧭 What We’ll Do in Class 4
@@ -69,5 +71,6 @@ Create or update your README file inside your personal GitHub folder.
 - [GitHub Markdown Syntax](https://docs.github.com/en/get-started/writing-on-github)
 - [Zotero Quick Start Guide](https://www.zotero.org/support/quick_start_guide)
 - [CHI Zotero Group Library](https://www.zotero.org/groups/5772697/quantum_ai_music)
+- [Inspiration Research Concepts](https://www.instructables.com/Inspiration-Through-Research/)  
 
 **Your goal is to commit to a domain and start collecting useful inspiration and documentation. We'll keep refining and organizing together. Don't wait for it to be perfect—just start shaping your world.**
