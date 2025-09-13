@@ -47,7 +47,7 @@ Create or update your README file inside your personal GitHub folder.
 - **Structure of your repository** (what files or folders are included and why)
 - Link to or explain any visual references, sketches, or mockups you've made
 
-[Example of a README submission](../documents/sample_student_readme.md)
+[Example of a README submission](../../documents-Class/03_ProjectTracking/sample%20student%20readme.md)
 
 ### Updated GitHub Folder
 - Make sure your personal folder contains **at least one updated document** reflecting your idea
