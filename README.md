@@ -1,4 +1,4 @@
-# MTEC 3501 — Culmination Project Development
+David Smith Branch # MTEC 3501 — Culmination Project Development
 
 *New York City College of Technology (City Tech) • Department of Entertainment Technology*
 
@@ -9,9 +9,19 @@
 > This section will be updated each week with the current assignment and deliverables.
 > 🔗 [See all assignments](./assignments)
 
-**This Week (Week 01):**
+**(Week 3) This Week**
+* [Week 3 assignments](./assignments/week03/03_Assignment_due_Week_04.md)
+  - Micro Presentation on your project
+  - Inspirational elements for your project, with links for inclusion into Zotero
+  - Updated or refined README in your project folder
+  - GitHub Desktop downloaded and synced to your repo
 
-* [Week 1 assignments](documents-Class/assignments/##_folder/filename.md)
+**(Week 02)**
+* [Week 2 assignments](./assignments/week02/Brainstorming%20Assignment%20Week%2002.md)
+
+**(Week 01):**
+
+* [Week 1 assignments](./assignments/week01)
 * Due: Week 02 (9/4)
 * Deliverables:
   * [Speculative Essay](./assignments/week01/01_Speculative_Reflection_Assignment.md)
