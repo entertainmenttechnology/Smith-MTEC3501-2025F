@@ -26,7 +26,7 @@ By the end of this lesson, students will:
 
 ## **📌 Step 1: Creating Your Project Board**
 ### **🔧 How to Set Up Your Own Project**
-1. **Go to** [MTEC 3501 Repository](https://github.com/EntertainmentTechnology/MTEC-3501).
+1. **Go to** this repository.
 2. Click **Projects** → **New Project**.
 3. **Select "MTEC 3501 Project Template"**.
 4. Click **Create Project**.
