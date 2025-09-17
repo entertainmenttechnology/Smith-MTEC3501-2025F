@@ -1,7 +1,7 @@
 # 📌 MTEC 3501: Mid-term Project Proposal Presentation – Deliverables  
-
+Last updated 2025-09-17 dbs  
 ## **Overview**  
-The **March 17 Presentation** serves as a critical checkpoint where students will complete the **Research/Design** phase via a juried **assessment** of the proposal's feasability and potential.  After integrating feedbacck from this presentation, you will then move into **early Production planning**. Students must clearly define their project vision, research findings, production milestones, and **what their end-of-semester proof of concept will be** (even though it will not be built yet).  
+The **Mid-term Presentation** serves as a critical checkpoint where students will complete the **Research/Design** phase via a juried **assessment** of the proposal's feasability and potential.  After integrating feedbacck from this presentation, you will then move into **early Production planning**. Students must clearly define their project vision, research findings, production milestones, and **what their end-of-semester proof of concept will be** (even though it will not be built yet).  
 
 ---
 
