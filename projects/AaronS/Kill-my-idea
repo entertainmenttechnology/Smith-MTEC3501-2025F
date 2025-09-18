@@ -1,0 +1,15 @@
+  Weakness
+
+My app depends on reading a person’s mood, but emotions can change fast or be hard to detect correctly.
+
+ Proposed Solution
+
+I use a mix of signals—like face, voice, and user input—to help the app understand moods more accurately.
+
+ Challenge
+
+Mood detection isn’t always right and can make the app choose music that feels off or doesn’t fit the moment.
+
+Question
+
+How do I keep mood detection accurate and fair so the app feels helpful, not random or annoying?
