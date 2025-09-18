@@ -18,4 +18,5 @@ Contagion Zone is s a narrative-driven survival experience set in the heart of a
 
 ## Goals 
 - Have the project to have multiple parts (Chapters)
-- Having a plot 
+- Having a plot
+- Want to make the choices to have consequences that will cause different problems within the story and causes different story endings. 
