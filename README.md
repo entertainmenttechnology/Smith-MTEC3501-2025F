@@ -6,14 +6,15 @@ David Smith Branch # MTEC 3501 — Culmination Project Development
 
 ## 📌 Weekly Update
 
+**(Week 4) This Week**
 Do the followng assignments
-1. Build a project board for your project [link to document](https://github.com/entertainmenttechnology/Smith-MTEC3501-2025F/blob/main/documents-Class/03_ProjectTracking/Project-Board-Creation.md)  
-2. DO the precedent research assignment [link to assignment 4](https://github.com/entertainmenttechnology/Smith-MTEC3501-2025F/blob/main/assignments/Week%204.md)
+1. Build a project board for your project [link to document](./documents-Class/03_ProjectTracking/Project-Board-Creation.md)  
+2. Do the precedent research assignment [link to assignment 4](./assignments/Week%204.md)
 
 > This section will be updated each week with the current assignment and deliverables.
 > 🔗 [See all assignments](./assignments)
 
-**(Week 3) This Week**
+**(Week 3)**
 * [Week 3 assignments](./assignments/week03/03_Assignment_due_Week_04.md)
   - Micro Presentation on your project
   - Inspirational elements for your project, with links for inclusion into Zotero
