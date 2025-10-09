@@ -1,5 +1,6 @@
 # MTEC 3501 – Assignment 6  
-**Due Week 5 — Draft Presentation Cards + Project Materials**
+**Due Week 7 — Draft Presentation Cards + Project Materials**
+CLASS ON ZOOM
 
 ---
 
@@ -64,7 +65,7 @@ Before next class, make sure your **GitHub folder** reflects your most current p
 
 ---
 
-## 🗣️ 3. Prepare for Zoom Test Presentations (Week 5)
+## 🗣️ 3. Prepare for Zoom Test Presentations (Week 7)
 
 We will be doing **short Zoom test presentations** in the next class to try out your slides and give you feedback before your first formal review. Please be ready to **present your two cards** and describe your idea.
 
@@ -82,7 +83,7 @@ We will be doing **short Zoom test presentations** in the next class to try out 
 
 ## 🔁 Reminder of Goals
 
-By the time we meet for **Week 5**, you should:
+By the time we meet for **Week 7**, you should:
 - [ ] Have two completed slides in the shared deck
 - [ ] Have updated your repo with meaningful content
 - [ ] Have a clearer sense of your project's scope and challenges
