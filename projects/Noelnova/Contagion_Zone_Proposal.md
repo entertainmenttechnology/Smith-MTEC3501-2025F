@@ -1,10 +1,10 @@
 # Title: The Contagion Zone 
 
 ## Climax Version: Full Ambitious Vision 
--Contagion Zone reaches its full potential as an emotionally gripping, choice-driven survival narrative where every decision shapes the fate of both the player and the quarantined world around them. Built in Twine, the game blends storytelling, art, sound, and technology to immerse players in a collapsing society infected not only by disease—but by fear, guilt, and secrecy.
+Contagion Zone reaches its full potential as an emotionally gripping, choice-driven survival narrative where every decision shapes the fate of both the player and the quarantined world around them. Built in Twine, the game blends storytelling, art, sound, and technology to immerse players in a collapsing society infected not only by disease—but by fear, guilt, and secrecy.
 
 ## Narrative Vision
-- At the peak of the story, the player faces the ultimate moral crossroads:
+At the peak of the story, the player faces the ultimate moral crossroads:
 Will they sacrifice themselves to contain the plague, or risk unleashing it to save the people you are trying to protect?
 
 This climax embodies the core of Contagion Zone — a test of humanity’s strength when survival demands impossible choices. Each branching path leads to two or three distinct endings, each revealing a different truth about the plague, the survivor’s hidden past, and what “salvation” truly means.
