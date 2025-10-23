@@ -1,9 +1,8 @@
-David Smith Branch # MTEC 3501 — Culmination Project Development
+# MTEC 3501 — Culmination Project Development
 
 *New York City College of Technology (City Tech) • Department of Entertainment Technology*
 
 ---
-
 
 
 ## 📌 Weekly Update
