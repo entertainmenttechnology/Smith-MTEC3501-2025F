@@ -4,9 +4,18 @@ David Smith Branch # MTEC 3501 — Culmination Project Development
 
 ---
 
+
+
 ## 📌 Weekly Update
 
-**(Week 4) This Week**
+**2025-10-23**
+Mid Semester Presentations  
+
+Today we are face to face, and you will be giving your presentations.&nbsp; Please feel free to refer to this document that suggests what you need to provide.&nbsp; Project Presentation Deliverables.
+
+Remember your presentation will be capped at 10 minutes, and then there will be a 10 minute Q&A; Jurists will also post written remarks for later. Make sure also to merge your GitHub branches with your project materials, and make this available to the jury.&nbsp; You will be presenting from either your computer that is patches into the room system, or you will present on the computer that is in there: in which case you will probaby want to bring your Powerpoint in on a jump drive.
+
+**(Week 4)**
 Do the followng assignments
 1. Build a project board for your project [link to document](./documents-Class/03_ProjectTracking/Project-Board-Creation.md)  
 2. Do the precedent research assignment [link to assignment 4](./assignments/Week%204.md)
