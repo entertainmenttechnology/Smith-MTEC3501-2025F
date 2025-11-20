@@ -1,4 +1,4 @@
-## PROJECT TITLE: SAFARI SHAKEDOWN WITH FUSSEL & MAJOR
+## PROJECT TITLE: SAFARI SHAKEDOWN WITH FUSS & MAJOR
 https://docs.google.com/presentation/d/1JVdi10v2kpoApfzo_31PKUMsWwlGYlIa9CFEYsZ5pX0/edit?usp=sharing 
 
 
