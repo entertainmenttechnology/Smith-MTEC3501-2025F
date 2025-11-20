@@ -4,7 +4,7 @@ https://docs.google.com/presentation/d/1JVdi10v2kpoApfzo_31PKUMsWwlGYlIa9CFEYsZ5
 
 # DESCRIPTION
 
-A small monkey, Fussel, wants all the food that the black bear, Major, is hoarding on top of a tree. Fuss is trying to find ways to get the food without Major falling out of the tree when coincidentally, drones carrying packages over the area begin falling out the sky due to low service. This gives Fussel an idea. He will use whatever he can find within the packages to shake the tree enough for food to come out
+A small monkey, Fuss, wants all the food that the black bear, Major, is hoarding on top of a tree. Fuss is trying to find ways to get the food without Major falling out of the tree when coincidentally, drones carrying packages over the area begin falling out the sky due to low service. This gives fuss an idea. He will use whatever he can find within the packages to shake the tree enough for food to come out
 
 
 ## PROJECT CATEGORY
