@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arcane Table Technical Plan</title>
+    <style>
+        @page {
+            size: A4 landscape;
+            margin: 0.5in;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #1a1a2e, #16213e);
+            color: #fff;
+            print-color-adjust: exact;
+            -webkit-print-color-adjust: exact;
+            font-size: 12px;
+            line-height: 1.4;
+        }
+
+        .slide {
+            width: 100vw;
+            height: 100vh;
+            padding: 2rem;
+            display: flex;
+            flex-direction: column;
+            page-break-after: always;
+            background: linear-gradient(135deg, #1a1a2e, #16213e);
+        }
+
+        .slide:last-child {
+            page-break-after: avoid;
+        }
+
+        .slide-header {
+            text-align: center;
+            margin-bottom: 2rem;
+            border-bottom: 3px solid #4ecdc4;
+            padding-bottom: 1rem;
+        }
+
+        .slide-title {
+            font-size: 2.5rem;
+            color: #4ecdc4;
+            margin-bottom: 0.5rem;
+        }
+
+        .slide-subtitle {
+            font-size: 1.2rem;
+            opacity: 0.8;
+        }
+
+        .content-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+            flex: 1;
+        }
+
+        .content-section {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 15px;
+            padding: 1.5rem;
+            border-left: 5px solid #ff6b6b;
+        }
+
+        .section-title {
+            font-size: 1.5rem;
+            color: #ff6b6b;
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .tech-point {
+            background: rgba(255, 255, 255, 0.05);
+            padding: 1rem;
+            margin-bottom: 1rem;
+            border-radius: 8px;
+            border-left: 3px solid #96c93d;
+        }
+
+        .point-title {
+            font-weight: bold;
+            color: #96c93d;
+            margin-bottom: 0.5rem;
+            font-size: 1.1rem;
+        }
+
+        .point-desc {
+            font-size: 1rem;
+            line-height: 1.5;
+        }
+
+        .tech-stack {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.8rem;
+            margin-top: 1rem;
+        }
+
+        .tech-badge {
+            background: linear-gradient(45deg, #45b7d1, #96c93d);
+            padding: 0.4rem 0.8rem;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: bold;
+            color: #000;
+        }
+
+        .timeline-comparison {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+            flex: 1;
+        }
+
+        .timeline-column {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 15px;
+            padding: 1.5rem;
+            border-top: 5px solid #4ecdc4;
+        }
+
+        .timeline-title {
+            font-size: 1.8rem;
+            color: #4ecdc4;
+            margin-bottom: 1rem;
+            text-align: center;
+        }
+
+        .milestone {
+            background: rgba(255, 255, 255, 0.05);
+            padding: 1rem;
+            margin-bottom: 1rem;
+            border-radius: 8px;
+            border-left: 3px solid #ff6b6b;
+        }
+
+        .milestone-name {
+            font-weight: bold;
+            color: #ff6b6b;
+            margin-bottom: 0.5rem;
+            font-size: 1.1rem;
+        }
+
+        .milestone-desc {
+            font-size: 1rem;
+            line-height: 1.4;
+        }
+
+        .concept-visual {
+            background: rgba(255, 255, 255, 0.1);
+            border: 2px dashed #4ecdc4;
+            border-radius: 15px;
+            padding: 2rem;
+            margin: 1rem 0;
+            font-size: 1.3rem;
+            color: #4ecdc4;
+            text-align: center;
+        }
+
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 1rem;
+            margin: 1.5rem 0;
+        }
+
+        .metric-box {
+            background: rgba(255, 255, 255, 0.08);
+            padding: 1rem;
+            border-radius: 8px;
+            text-align: center;
+            border: 1px solid #96c93d;
+        }
+
+        .metric-label {
+            font-size: 0.9rem;
+            opacity: 0.8;
+            margin-bottom: 0.5rem;
+        }
+
+        .metric-value {
+            font-size: 1.1rem;
+            color: #96c93d;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <!-- Slide 1: Inspirations & Vision -->
+    <div class="slide">
+        <div class="slide-header">
+            <div class="slide-title">Arcane Table: Inspirations</div>
+            <div class="slide-subtitle">Bringing Fantasy Card Game Moments to Reality</div>
+        </div>
+
+        <div class="content-grid">
+            <div class="content-section">
+                <div class="section-title">Core Inspirations</div>
+                
+                <div class="tech-point">
+                    <div class="point-title">Yu-Gi-Oh Duelist Kingdom</div>
+                    <div class="point-desc">
+                        Holographic monsters battling above duel disks. The dream of seeing your cards come alive and fight in front of you.
+                    </div>
+                </div>
+
+                <div class="tech-point">
+                    <div class="point-title">Hearthstone Digital Magic</div>
+                    <div class="point-desc">
+                        Dynamic card effects, evolving artwork, impossible mechanics that only work in digital space. Cards that remember their history.
+                    </div>
+                </div>
+
+                <div class="tech-point">
+                    <div class="point-title">Adventure Time Card Wars</div>
+                    <div class="point-desc">
+                        Epic battles playing out on a simple table surface. Creatures with personality engaging in dramatic combat scenarios.
+                    </div>
+                </div>
+            </div>
+
+            <div class="content-section">
+                <div class="section-title">The Gap We're Filling</div>
+                
+                <div class="tech-point">
+                    <div class="point-title">Physical vs Digital Divide</div>
+                    <div class="point-desc">
+                        Love collecting rare cards but want dynamic gameplay. Miss the social aspect of face-to-face gaming in digital games.
+                    </div>
+                </div>
+
+                <div class="tech-point">
+                    <div class="point-title">Static Card Limitations</div>
+                    <div class="point-desc">
+                        Physical cards can't evolve, gain experience, or show battle damage. Limited to printed stats and artwork.
+                    </div>
+                </div>
+
+                <div class="tech-point">
+                    <div class="point-title">Accessibility of Magic</div>
+                    <div class="point-desc">
+                        Expensive hologram technology vs accessible projection mapping. Every kitchen table becomes a dueling arena.
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="concept-visual">
+            "What if your physical cards could remember every battle, evolve their artwork, and spawn living creatures that fight before your eyes?"
+        </div>
+    </div>
+
+    <!-- Slide 2: Technical Overview -->
+    <div class="slide">
+        <div class="slide-header">
+            <div class="slide-title">Arcane Table: Technical Overview</div>
+            <div class="slide-subtitle">Physical Cards + Computer Vision + Real-time Projection</div>
+        </div>
+
+        <div class="concept-visual">
+            Camera Detects Cards → Game Engine Processes → Projector Displays Graphics
+        </div>
+
+        <div class="content-grid">
+            <div class="content-section">
+                <div class="section-title">Computer Vision System</div>
+                
+                <div class="tech-point">
+                    <div class="point-title">Card Detection</div>
+                    <div class="point-desc">
+                        OpenCV identifies card shapes and matches them to database. Real-time tracking of position and orientation for smooth gameplay.
+                    </div>
+                </div>
+
+                <div class="tech-point">
+                    <div class="point-title">Recognition Pipeline</div>
+                    <div class="point-desc">
+                        Edge detection finds card boundaries, template matching identifies specific cards, Kalman filtering smooths movement tracking.
+                    </div>
+                </div>
+
+                <div class="tech-stack">
+                    <div class="tech-badge">Python + OpenCV</div>
+                    <div class="tech-badge">1080p Camera</div>
+                    <div class="tech-badge">60fps Processing</div>
+                </div>
+            </div>
+
+            <div class="content-section">
+                <div class="section-title">Game Engine & Graphics</div>
+                
+                <div class="tech-point">
+                    <div class="point-title">Projection Mapping</div>
+                    <div class="point-desc">
+                        Calibrated projector aligns graphics perfectly with physical cards. Perspective correction handles different viewing angles.
+                    </div>
+                </div>
+
+                <div class="tech-point">
+                    <div class="point-title">Real-time Rendering</div>
+                    <div class="point-desc">
+                        2D sprites with animations, particle effects for spells, dynamic lighting that responds to game events.
+                    </div>
+                </div>
+
+                <div class="tech-stack">
+                    <div class="tech-badge">Unity 2D Engine</div>
+                    <div class="tech-badge">C# Game Logic</div>
+                    <div class="tech-badge">1080p Projector</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Slide 3: This Semester Development -->
+    <div class="slide">
+        <div class="slide-header">
+            <div class="slide-title">This Semester: Core System Development</div>
+            <div class="slide-subtitle">3 Months - Proof of Concept Implementation</div>
+        </div>
+
+        <div class="content-grid">
+            <div class="content-section">
+                <div class="section-title">Technical Milestones</div>
+                
+                <div class="milestone">
+                    <div class="milestone-name">Hardware Setup</div>
+                    <div class="milestone-desc">
+                        Assemble overhead camera and projector rig. Implement calibration system for alignment. Test detection accuracy in controlled environment.
+                    </div>
+                </div>
+
+                <div class="milestone">
+                    <div class="milestone-name">Card Recognition</div>
+                    <div class="milestone-desc">
+                        Build OpenCV pipeline for detecting standard playing cards or existing TCG cards. Reliable recognition with template matching and contour detection algorithms.
+                    </div>
+                </div>
+
+                <div class="milestone">
+                    <div class="milestone-name">Basic Game Logic</div>
+                    <div class="milestone-desc">
+                        Turn-based combat with health/attack stats. Card placement triggers, win/lose conditions, simple animation system.
+                    </div>
+                </div>
+
+                <div class="milestone">
+                    <div class="milestone-name">System Integration</div>
+                    <div class="milestone-desc">
+                        Connect vision system to game engine. Real-time projection of card stats and battle effects. End-to-end gameplay testing.
+                    </div>
+                </div>
+            </div>
+
+            <div class="content-section">
+                <div class="section-title">Final Deliverables</div>
+                
+                <div class="tech-point">
+                    <div class="point-title">Working Prototype</div>
+                    <div class="point-desc">
+                        Complete playable system with 10 cards, reliable detection, and real-time projection. 5-minute live demo capability.
+                    </div>
+                </div>
+
+                <div class="tech-point">
+                    <div class="point-title">User Testing</div>
+                    <div class="point-desc">
+                        Testing with 8-10 users from different gaming backgrounds. Measure setup time, recognition errors, engagement levels.
+                    </div>
+                </div>
+
+                <div class="tech-point">
+                    <div class="point-title">Technical Documentation</div>
+                    <div class="point-desc">
+                        Setup instructions, code documentation, performance benchmarks, and optimization recommendations for next phase.
+                    </div>
+                </div>
+
+                <div class="tech-stack">
+                    <div class="tech-badge">Python + OpenCV</div>
+                    <div class="tech-badge">Unity 2022 LTS</div>
+                    <div class="tech-badge">C# Scripting</div>
+                    <div class="tech-badge">JSON Data</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Slide 4: Next Semester Advanced Features -->
+    <div class="slide">
+        <div class="slide-header">
+            <div class="slide-title">🚀 Next Semester: Advanced Implementation</div>
+            <div class="slide-subtitle">6 Months Total - Production-Ready System</div>
+        </div>
+
+        <div class="timeline-comparison">
+            <div class="timeline-column">
+                <div class="timeline-title">🎨 Enhanced Experience</div>
+                
+                <div class="milestone">
+                    <div class="milestone-name">Machine Learning Recognition</div>
+                    <div class="milestone-desc">
+                        Replace template matching with CNN for robust recognition. Handle worn cards and varying lighting conditions reliably.
+                    </div>
+                </div>
+
+                <div class="milestone">
+                    <div class="milestone-name">Advanced Graphics</div>
+                    <div class="milestone-desc">
+                        Animated creatures with skeletal animation, particle effects for spells, dynamic lighting, and 3D model projection.
+                    </div>
+                </div>
+
+                <div class="milestone">
+                    <div class="milestone-name">Complete Card Set</div>
+                    <div class="milestone-desc">
+                        Work with existing card templates and standard card designs. Focus on recognition system that can handle various card types and designs.
+                    </div>
+                </div>
+
+                <div class="milestone">
+                    <div class="milestone-name">Audio System</div>
+                    <div class="milestone-desc">
+                        Spatial audio positioning, dynamic music responding to game state, sound effects for card actions and spell casting.
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-column">
+                <div class="timeline-title">📱 Platform Features</div>
+                
+                <div class="milestone">
+                    <div class="milestone-name">Portable Hardware</div>
+                    <div class="milestone-desc">
+                        All-in-one unit with integrated projector and cameras. Automatic calibration, support for various table sizes.
+                    </div>
+                </div>
+
+                <div class="milestone">
+                    <div class="milestone-name">Academic Showcase</div>
+                    <div class="milestone-desc">
+                        University demo day presentation, senior project exhibition, computer science department showcase with student peers and faculty.
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="tech-stack">
+            <div class="tech-badge">TensorFlow/PyTorch</div>
+            <div class="tech-badge">Unity URP</div>
+            <div class="tech-badge">React Native</div>
+            <div class="tech-badge">Firebase Backend</div>
+            <div class="tech-badge">Custom Hardware</div>
+            <div class="tech-badge">OBS Integration</div>
+        </div>
+    </div>
+</body>
+</html>

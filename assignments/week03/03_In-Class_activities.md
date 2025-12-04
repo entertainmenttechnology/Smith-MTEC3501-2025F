@@ -113,25 +113,21 @@ What is the smallest working test or core idea that proves your project is worth
 
 ---
 
-## 🟣 Part 5: Create Your GitHub Project Board
+## 🟣 Part 5: Create Your GitHub Project Board  
 
-1. Go to the **Projects** tab in your repo.
-2. Create a new **Board view** project titled:
+1. Go to the **Projects** tab in the repo.
+2. Click on "+ New Project" green button
+3. Select the project template "MTEC3501_Project_Template"
+4. Create a new Template project titled:
    ```
-   [Your Name] – Project Board
+   [Your Name] – [Project Name]
    ```
-3. Add columns:
-   - `To Do`
-   - `Needs Research`
-   - `In Progress`
-   - `Completed`
-4. Add a link to this board in your `README.md`
-
+5. Add a link to this board in your `README.md`
 ✅ This board will become the foundation of your semester workflow.
 
 ---
 
-## 🔶 Part 6: Convert Brainstorm Variants Into GitHub Issues
+## 🔶 Part 6: Convert Brainstorm Variants Into GitHub Issues  
 
 For each brainstorm idea:
 1. Create a new GitHub **Issue**
@@ -147,7 +143,7 @@ For each brainstorm idea:
 
 ---
 
-## 🔷 Part 7: Precedent Research & Zotero
+## 🔷 Part 7: Precedent Research & Zotero  
 
 1. Join the **class Zotero group** (link provided in class)
 2. Add at least 2–3 precedent sources
