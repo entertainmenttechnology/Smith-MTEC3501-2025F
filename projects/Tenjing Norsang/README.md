@@ -105,7 +105,7 @@ To succeed, development will focus on:
 
 - High-speed character physics  
 - Animation blending & controllers  
-- 3D asset creation  
+- 3D asset development
 - Level design, pacing, and flow  
 
 ---
