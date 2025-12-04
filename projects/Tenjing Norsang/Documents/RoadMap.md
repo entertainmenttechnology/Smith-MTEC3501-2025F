@@ -96,8 +96,7 @@ A basic narrative progression system that ties abilities to Memory Fragments.
 - [ ] Fix issues with springs, dash pads, and slopes  
 - [ ] Clean up placeholder VFX/SFX  
 - [ ] Implement minimal UI:  
-  - Speedometer (optional)  
-  - Ability icons (optional)  
+  - Speedometer 
 - [ ] Remove unused scripts/assets  
 - [ ] Export final LVP build  
 
@@ -105,13 +104,12 @@ A basic narrative progression system that ties abilities to Memory Fragments.
 
 # 🎉 **LVP Completion Target: May 8, 2026**
 
-### **Your LVP will include:**
+### **LVP will include:**
 - ✔ Existing walk/run movement  
 - ✔ Boost / Stomp / Slide / Air Dash / Spin Dash / Quick Step abilities  
 - ✔ Basic interactables (springs, dash pads)  
 - ✔ A functional test level  
 - ✔ Memory Fragment → Ability unlock progression  
 - ✔ Basic polish (VFX/SFX/UI)  
-- ✔ A playable, demonstrable prototype  
-
----
+- ✔ A playable, demonstrable prototype
+- 
