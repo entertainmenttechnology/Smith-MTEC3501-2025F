@@ -118,6 +118,7 @@ A basic narrative progression system that ties abilities to Memory Fragments.
 # 📊 Gantt Chart — Sonic Evolution (LVP)
 
 Legend:
+
 🟦 Ability Development  
 🟩 Movement Polish & Animation  
 🟧 Level Design & Interactables  
