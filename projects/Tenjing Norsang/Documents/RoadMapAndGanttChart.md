@@ -1,4 +1,4 @@
-# 🗓️ Sonic Evolution — Updated LVP Development Timeline  
+# 🗓️ Sonic Evolution — LVP Development Timeline  
 ### **December 26, 2025 → May 8, 2026** 
 
 The LVP goal:  
