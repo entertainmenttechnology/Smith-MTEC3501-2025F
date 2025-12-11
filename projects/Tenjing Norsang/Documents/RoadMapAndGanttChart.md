@@ -58,7 +58,8 @@ A polished, fun Sonic movement system with reliable controls.
   - Platforms  
 - [ ] Add essential interactables:  
   - [ ] Basic springs (vertical & angled)  
-  - [ ] Dash pads  
+  - [ ] Dash pads
+  - [ ] Enemies
 - [ ] Add falling boundaries & respawn system  
 - [ ] Add checkpoints (simple version)  
 - [ ] Integrate early Boost pickups (optional)
