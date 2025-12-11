@@ -34,10 +34,10 @@ Sonic can now do everything expected from a modern Boost-style character movemen
 
 **Tasks:**
 - [ ] Tune Boost values (acceleration, drift, control, deceleration)  
-- [ ] Improve slope behavior & ground detection  
-- [ ] Polish camera behavior for high-speed play  
+- [ ] Improve slope behavior & ground detection 
+- [ ] Polish camera behavior for high-speed play
 - [ ] Enhance animation blending with new states  
-- [ ] Add placeholder SFX for moves (boost, stomp, land, dash)  
+- [ ] Add placeholder SFX for moves (boost, stomp, land, dash)
 - [ ] Fix edge-case movement issues (snapping, wall collisions)
 
 **Outcome:**  
@@ -62,7 +62,6 @@ A polished, fun Sonic movement system with reliable controls.
   - [ ] Enemies
 - [ ] Add falling boundaries & respawn system  
 - [ ] Add checkpoints (simple version)  
-- [ ] Integrate early Boost pickups (optional)
 
 **Outcome:**  
 A practical environment for testing Sonic’s full movement toolset.
@@ -94,7 +93,7 @@ A basic narrative progression system that ties abilities to Memory Fragments.
 **Tasks:**
 - [ ] Tune movement & camera one last time  
 - [ ] Smooth out test level geometry for better flow  
-- [ ] Fix issues with springs, dash pads, and slopes  
+- [ ] Fix issues 
 - [ ] Clean up placeholder VFX/SFX  
 - [ ] Implement minimal UI:  
   - Speedometer 
@@ -108,7 +107,7 @@ A basic narrative progression system that ties abilities to Memory Fragments.
 ### **LVP will include:**
 - ✔ Existing walk/run movement  
 - ✔ Boost / Stomp / Slide / Air Dash / Spin Dash / Quick Step abilities  
-- ✔ Basic interactables (springs, dash pads)  
+- ✔ Basic interactables (springs, dash pads, enemies)  
 - ✔ A functional test level  
 - ✔ Memory Fragment → Ability unlock progression  
 - ✔ Basic polish (VFX/SFX/UI)  
